@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\bin\Debug\Aplicación de Escritorio.exe.config
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\bin\Debug\Aplicación de Escritorio.exe
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\bin\Debug\Aplicación de Escritorio.pdb
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación de Escritorio.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación_de_Escritorio.Form1.resources
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación_de_Escritorio.Properties.Resources.resources
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación de Escritorio.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación de Escritorio.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación de Escritorio.exe
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación de Escritorio.pdb
+C:\Users\angel\source\repos\Aplicación de Escritorio\Aplicación de Escritorio\obj\Debug\Aplicación_de_Escritorio.Productos.resources

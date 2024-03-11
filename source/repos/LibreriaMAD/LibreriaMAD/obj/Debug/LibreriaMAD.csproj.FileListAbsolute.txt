@@ -1,0 +1,9 @@
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\obj\Debug\LibreriaMAD.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\obj\Debug\LibreriaMAD.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\bin\Debug\LibreriaMAD.pdb
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\obj\Debug\Libreria.66184887.Up2Date
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\obj\Debug\LibreriaMAD.dll
+C:\Users\angel\source\repos\LibreriaMAD\LibreriaMAD\obj\Debug\LibreriaMAD.pdb
