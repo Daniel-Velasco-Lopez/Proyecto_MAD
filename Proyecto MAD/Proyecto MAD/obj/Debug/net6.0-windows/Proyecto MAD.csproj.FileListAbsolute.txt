@@ -1,0 +1,20 @@
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\bin\Debug\net6.0-windows\Proyecto MAD.exe
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\bin\Debug\net6.0-windows\Proyecto MAD.deps.json
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\bin\Debug\net6.0-windows\Proyecto MAD.runtimeconfig.json
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\bin\Debug\net6.0-windows\Proyecto MAD.dll
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\bin\Debug\net6.0-windows\Proyecto MAD.pdb
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto_MAD.Form1.resources
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto_MAD.Form2.resources
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.AssemblyInfo.cs
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.dll
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\refint\Proyecto MAD.dll
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.pdb
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto MAD.genruntimeconfig.cache
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\ref\Proyecto MAD.dll
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto_MAD.Properties.Resources.resources
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto_MAD.FormAulas.resources
+C:\Users\angel\source\repos\Proyecto MAD\Proyecto MAD\obj\Debug\net6.0-windows\Proyecto_MAD.RegistroReporte.resources
