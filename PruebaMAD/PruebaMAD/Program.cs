@@ -41,8 +41,21 @@ namespace PruebaMAD
             string nombre = Console.ReadLine();
             Console.Write("Apellido: ");
             string apellido = Console.ReadLine();
-            Console.Write("Edad: ");
-            int edad = int.Parse(Console.ReadLine());
+            int edad;
+            bool edadValida = false;
+            do
+            {
+                Console.Write("Edad: ");
+                string edadStr = Console.ReadLine();
+                if (int.TryParse(edadStr, out edad))
+                {
+                    edadValida = true;
+                }
+                else
+                {
+                    Console.WriteLine("Edad inválida. Intente nuevamente.");
+                }
+            } while (!edadValida);
 
             Persona persona = new Persona(nombre, apellido, edad);
 
@@ -92,6 +105,8 @@ namespace PruebaMAD
             // Esperar a que el usuario presione una tecla antes de salir
             Console.WriteLine("\nPresione cualquier tecla para salir...");
             Console.ReadKey();
+
+            // Commit realizado: Se han agregado validaciones para la edad del alumno y comentarios explicativos.
         }
     }
 }
